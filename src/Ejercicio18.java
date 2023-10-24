@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EjercicioAyer {
+public class Ejercicio18 {
     public static void main(String[] args) {
         //leer una frase y contar cuantas vocales tiene
         String frase= "";
